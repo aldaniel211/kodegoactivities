@@ -1,0 +1,9 @@
+< !DOCTYPE html>
+< !- this is the HTML file that link to an external css -->
+<html>
+<head>
+    <title>External css</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+     </head>
+     <body>
+          <h1>Registration form</h1>
